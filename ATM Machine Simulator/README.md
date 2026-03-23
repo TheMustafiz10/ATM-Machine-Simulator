@@ -1,4 +1,4 @@
-# ATM Machine Simulator (Assembly Language)
+# ATM Machine Simulator
 
 This ATM Machine Simulator is a low-level system programming project that simulates the core functionality of an ATM using [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language). The simulator demonstrates essential banking operations, including PIN-based authentication, balance inquiries, deposits, withdrawals, and transaction history, providing a realistic experience of how ATMs operate at the hardware and software level.
 
